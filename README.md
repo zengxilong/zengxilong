@@ -13,7 +13,7 @@
 </picture>
 
 
-- 🔭 Currently working in Tencent
+- 🔭 Currently working in @Tencent
 - 🌱 Interest in `Cloud-Native`、`Observability`、`Rust`
 - 📫 How to reach me: [zengxilonglh@gmail.com](mailto:zengxilonglh@gmail.com) 
 <!-- <p align="center">Total View</p>

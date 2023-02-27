@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zengxilong)](https://github.com/zengxilong/github-readme-stats)
 ![Visitor Count](https://profile-counter.glitch.me/zengxilong/count.svg)
 <!--
 **zengxilong/zengxilong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

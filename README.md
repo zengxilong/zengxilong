@@ -13,7 +13,7 @@
 </picture>
 
 
-- 🔭 Currently working in @Tencent
+- 🔭 Currently working in [@Tencent](https://github.com/Tencent)
 - 🌱 Interest in `Cloud-Native`、`Observability`、`Rust`
 - 💻 Contributor of [@opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
 - 📫 How to reach me: [zengxilonglh@gmail.com](mailto:zengxilonglh@gmail.com) 

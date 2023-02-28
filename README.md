@@ -15,6 +15,7 @@
 
 - 🔭 Currently working in @Tencent
 - 🌱 Interest in `Cloud-Native`、`Observability`、`Rust`
+- 💻 Contributor of [@opentelemetry-rust](https://github.com/open-telemetry/opentelemetry-rust)
 - 📫 How to reach me: [zengxilonglh@gmail.com](mailto:zengxilonglh@gmail.com) 
 <!-- <p align="center">Total View</p>
 <p align="center"><img src="https://profile-counter.glitch.me/zengxilong/count.svg"></p> -->
